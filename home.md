@@ -1,4 +1,4 @@
-# Road Rage
+# Introduction
 
 Road Rage is a collection of customized forks of the [CommonRoad repos](https://gitlab.lrz.de/tum-cps) with try-catch all wrappers so that they'd work with the [official examples](https://gitlab.lrz.de/tum-cps/commonroad-scenarios/-/tree/2020a_scenarios/) (which gives ~500 errors when you check the scenario XML with the Schema `XML_commonRoad_XSD_2020a.xsd`.)
 
